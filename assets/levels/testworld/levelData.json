@@ -1,0 +1,15 @@
+{
+	"startPosX": 512,
+	"startPosY": 512,
+	"megatextureOffsetX": 0,
+	"megatextureOffsetY": 0,
+	"numMegatexturesHorizontal": 4,
+	"numMegatexturesVertical": 4,
+	"environmentBlocks": [
+		[-1, -1, 2050, 1],
+		[-1, 2048, 2050, 1],
+		[-1, -1, 1, 2050],
+		[2048, -1, 1, 2050],
+		[653, 1093, 136, 347]
+	]
+}
